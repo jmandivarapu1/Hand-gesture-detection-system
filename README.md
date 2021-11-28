@@ -1,1 +1,1 @@
-# Hand-gesture-detection-system
+# Hand-motion-gesture-detection-system
